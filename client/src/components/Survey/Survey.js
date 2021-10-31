@@ -60,7 +60,7 @@ function Survey() {
           </div>
         </label>
         <div className="filter__slider">
-          <div className="filter__slider-name">Диапозон цены</div>
+          <div className="filter__slider-name">Диапазон цены</div>
           <div className="filter__slider-box">
             <span>{value[0]}</span>
             <Slider

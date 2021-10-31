@@ -40,7 +40,7 @@ function Data() {
                             <p>Продавец:</p> <span>{el.vendor}</span>
                         </div>
                         <div className="title__name">
-                            <p>Колличество:</p> <span>{el.pack}</span>
+                            <p>Количество:</p> <span>{el.pack}</span>
                         </div>
                         <div className="title__name">
                             <p>Цена:</p> <span>{el.price}</span>
